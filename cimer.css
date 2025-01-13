@@ -1,11 +1,11 @@
 body{
   padding: 5px 25px;
-  background-image:url(hatter.png) ;
+  background-image: url(hatter.png);
 }
 
 p{
   text-align: justify;
-  text-indent: 2em;
+  text-indent: 2am;
 }
 
 ol li{
@@ -17,6 +17,7 @@ ol li{
   -moz-column-count: 3; /* Firefox */
   column-count: 3;
   line-height: 200%;
+ 
 }
 
 h1, h2{
